@@ -23,7 +23,7 @@ project-root/
 ### Backend Setup (Django API)
 1. **Clone the Repository:**
    ```sh
-   git clone <repository-url>
+   git clone 'https://github.com/SathishMadhiyalagan/ChatBot-WebScraper.git'
    cd project-root/backend
    ```
 2. **Set up Virtual Environment:**
