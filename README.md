@@ -80,6 +80,7 @@ project-root/
 - API calls are handled using `fetch` or `axios` in React
 - Ensure the virtual environment is activated before running Django commands
 
+
 ---
 **Author:** Sathish Madhiyalagan  
 🚀 Happy Coding!
